@@ -1,2 +1,2 @@
 # Snake-game
-OOP arcade snake game made with Tkinter GUI
+OOP arcade snake game made with graphical turtle module
