@@ -2,5 +2,4 @@
 OOP arcade snake game made with graphical turtle module
 
 
-
-![snake](https://github.com/SkilledNoah/Snake-game/assets/106553532/0ec77264-6f43-4555-a6eb-fe2509e0079b)
+![snake](https://github.com/SkilledNoah/Snake-game/assets/106553532/36e6d3ce-ed70-4e7d-a3e4-c0e0ccbf2064)
